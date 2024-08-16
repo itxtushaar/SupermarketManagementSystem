@@ -1,0 +1,7 @@
+opencv-python
+pygame
+pillow
+pyzbar
+pandas
+matplotlib
+pymysql
